@@ -1,6 +1,10 @@
 <h1 align="center">Hello there!, I'm <a href="https://t.me/feelspoggersman" target="_blank">Iliya</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 <!--
 **animeh4ter/animeh4ter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
