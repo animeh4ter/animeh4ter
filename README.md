@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div id="badges" align="center">
 <a href=https://www.linkedin.com/in/iliya-kovalev-6140b0267/><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href=https://t.me/feelspoggersman><img src="https://img.shields.io/badge/Telegram-4682B4?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
 </div>
 
 <!--
