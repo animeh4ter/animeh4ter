@@ -3,6 +3,8 @@
 <div id="badges" align="center">
 <a href=https://www.linkedin.com/in/iliya-kovalev-6140b0267/><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href=https://t.me/feelspoggersman><img src="https://img.shields.io/badge/Telegram-4682B4?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
+<a href=https://vk.com/dontuwume><img src="https://img.shields.io/badge/VK-1E90FF?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/></a>
+
 </div>
 
 <!--
