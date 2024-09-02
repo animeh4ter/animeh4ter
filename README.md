@@ -4,6 +4,7 @@
 <a href=https://t.me/feelspoggersman><img src="https://img.shields.io/badge/Telegram-4682B4?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
 <a href=https://vk.com/dontuwume><img src="https://img.shields.io/badge/VK-1E90FF?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/></a>
 </div>
+
 <div>
   <ul>
     <li>I am a software developer based in Saint Petersburg, Russia.</li>
@@ -12,7 +13,12 @@
     <li>I don't like emojis in profiles.</li>
   </ul>
 </div>
+
 <h1 align="center">Stats</h1>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animeh4ter&theme=2077">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=animeh4ter">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeh4ter&hide_progress=true">
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+  <img width=550 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animeh4ter&theme=2077" style="margin-right: 10px;">
+  <img height=155 src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeh4ter&hide_progress=true">
+</div>
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=animeh4ter">
+</div>
