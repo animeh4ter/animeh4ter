@@ -16,8 +16,8 @@
 
 <h1 align="center">Stats</h1>
 <div style="display: flex; justify-content: center; align-items: flex-start;">
-  <img width=550 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animeh4ter&theme=2077" style="margin-right: 10px;">
-  <img height=155 src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeh4ter&hide_progress=true">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animeh4ter&theme=2077" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeh4ter&hide_progress=true">
 </div>
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=animeh4ter">
