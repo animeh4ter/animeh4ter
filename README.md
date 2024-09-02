@@ -6,6 +6,6 @@
 <a href=https://vk.com/dontuwume><img src="https://img.shields.io/badge/VK-1E90FF?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/></a>
 </div>
 <h1 align="center">Stats</h1>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animeh4ter&theme=2077)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=animeh4ter&hide_progress=true)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=animeh4ter)
+![alt](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiv-itsolution&theme=2077)
+![alt](https://github-readme-stats.vercel.app/api/top-langs/?username=animeh4ter&hide_progress=true)
+![alt](https://github-readme-stats.vercel.app/api/wakatime?username=animeh4ter)
