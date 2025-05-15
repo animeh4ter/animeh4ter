@@ -9,7 +9,6 @@
   <ul>
     <li>I am a software developer based in Saint Petersburg, Russia.</li>
     <li>Currently, I work on the development and maintenance of one of the first medical PACS systems in Russia.</li>
-    <li>In my free time, I enjoy gaming and shooting.</li>
     <li>I don't like emojis in profiles.</li>
   </ul>
 </div>
